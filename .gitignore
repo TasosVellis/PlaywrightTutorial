@@ -1,3 +1,4 @@
 .pytest_cache
 /tasouken
 .idea
+__pycache__
